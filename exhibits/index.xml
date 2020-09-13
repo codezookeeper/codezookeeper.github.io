@@ -6,10 +6,28 @@
     <description>Recent content in Exhibits on Code-Zoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 01:45:38 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 20:06:38 -0400</lastBuildDate>
     
 	<atom:link href="codezookeeper.github.io/exhibits/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bool Smell</title>
+      <link>codezookeeper.github.io/exhibits/bool-smell/</link>
+      <pubDate>Sat, 12 Sep 2020 20:06:38 -0400</pubDate>
+      
+      <guid>codezookeeper.github.io/exhibits/bool-smell/</guid>
+      <description>Booleanus Smellicus
+  Classification  Class: [Method]
+Order: [Simplicity]
+Family: [Conditional]
+Genus: [Booleanus]
+Species: [Smellicus]
+ Related &amp;ldquo;Python version&amp;rdquo;[]
+&amp;ldquo;Typescript version&amp;rdquo;[]
+Wild sample Code file
+public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; if (article.PublishDate &amp;lt; DateTime.Now.AddDays(-100) &amp;amp;&amp;amp; article.CurrentEvent) { needsUpdate = true; } return needsUpdate; } Wild observations Many times in the wild you can find someone using an if statement to check a condition and then set a boolean.</description>
+    </item>
     
     <item>
       <title>Test multiple paramters one at a time</title>
