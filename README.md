@@ -11,8 +11,7 @@
  * create folders and language tags for C#
  * Update web icon - favicon
  * Attach something like Google analytics
- * Fix bug with links
- * set HTTPS on repo (needs 24 hours from time of custom domain)
+ * attach comment system - https://gohugo.io/content-management/comments/
 
 ## Topics:
 
