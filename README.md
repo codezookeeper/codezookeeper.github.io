@@ -3,7 +3,6 @@
 ## TODO:
 
  * Gather topics from presentation video
- * Create github account for codezookeeper@gmail.com account and move repo there
  * Gather topics from linters and resharper - explain their suggestions
  * write description of behavior instead of implementation
  * create links and folders for class/species etc
@@ -13,6 +12,7 @@
  * Update web icon - favicon
  * Attach something like Google analytics
  * Fix bug with links
+ * set HTTPS on repo (needs 24 hours from time of custom domain)
 
 ## Topics:
 
