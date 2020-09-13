@@ -29,6 +29,9 @@
  * Ex - single line await
  * Ex - ToList better than ToArray
  * LC - Arrays are bad and you should feel bad
+ * Ex and/or LC - don't just split long methods into many short one time called sections to get smaller methods
+ * Ex and/or LC - don't hide complex switching logic behind types (inheritance w/ overrides can be very difficult!)
+ * Safari - inline a bunch of methods to find common logic for clean refactor
 
 ## Thoughts:
 
