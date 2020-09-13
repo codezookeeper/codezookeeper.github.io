@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C-sharp on Code-Zoo</title>
-    <link>codezookeeper.github.io/tags/c-sharp/</link>
+    <link>https://codezookeeper.github.io/tags/c-sharp/</link>
     <description>Recent content in C-sharp on Code-Zoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Sep 2020 20:06:38 -0400</lastBuildDate>
     
-	<atom:link href="codezookeeper.github.io/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codezookeeper.github.io/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bool Smell</title>
-      <link>codezookeeper.github.io/exhibits/bool-smell/</link>
+      <title>Boolean Literal Smell</title>
+      <link>https://codezookeeper.github.io/exhibits/bool-smell/</link>
       <pubDate>Sat, 12 Sep 2020 20:06:38 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/bool-smell/</guid>
+      <guid>https://codezookeeper.github.io/exhibits/bool-smell/</guid>
       <description>Booleanus Smellicus
   Classification  Class: [Method]
 Order: [Simplicity]
@@ -31,10 +31,10 @@ public static bool NeedsToBeUpdated(Article article) { var needsUpdate = false; 
     
     <item>
       <title>Test multiple paramters one at a time</title>
-      <link>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</link>
+      <link>https://codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</link>
       <pubDate>Sat, 12 Sep 2020 01:45:38 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</guid>
+      <guid>https://codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</guid>
       <description>Parametercheckus Oneatatimeus
   Classification  Class: [Unit test]
 Order: [Behavior]
