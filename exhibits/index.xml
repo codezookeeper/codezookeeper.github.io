@@ -13,17 +13,19 @@
     
     <item>
       <title>Test multiple paramters one at a time</title>
-      <link>codezookeeper.github.io/exhibits/parameter-checking/</link>
+      <link>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</link>
       <pubDate>Sat, 12 Sep 2020 01:45:38 -0400</pubDate>
       
-      <guid>codezookeeper.github.io/exhibits/parameter-checking/</guid>
+      <guid>codezookeeper.github.io/exhibits/unittests/behavior/parameter-checking/</guid>
       <description>Parametercheckus Oneatatimeus
-  Classification  Class: Unit test
-Order: Behavior
-Family: Too much
-Genus: Parametercheckus
-Species: Oneatatimeus
- Wild sample Code file
+  Classification  Class: [Unit test]
+Order: [Behavior]
+Family: [Too much]
+Genus: [Parametercheckus]
+Species: [Oneatatimeus]
+ Related &amp;ldquo;Python version&amp;rdquo;[python-parameter-checking]
+&amp;ldquo;Typescript version&amp;rdquo;[typescript-parameter-checking]
+Wild sample Code file
 public static bool HasRareProperty(Animal animal, AnimalTrait trait) { if (trait is null) { throw new ArgumentNullException(nameof(trait)); } // insert useful code here...  return false; // nevermind, just return } Unit test
 public static void Given_NullTrait_Should_ThrowArgumentNullException() { Assert.Throws&amp;lt;ArgumentNullException&amp;gt;( () =&amp;gt; HasRareProperty(null, null) ); } Wild observations This code seems simple enough.</description>
     </item>
